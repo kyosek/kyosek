@@ -1,8 +1,19 @@
 ### Hi there 👋
 I'm Kyosek, a senior data scientist at a bank in London.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/kyosuke-morita-58329286/">
+        <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+    </a>
+    <a href="https://www.kaggle.com/kyosukemorita">
+        <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?&logo=kaggle&logoColor=white">
+    </a>
+    <a href="https://leetcode.com/kyosek">
+        <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?&logo=LeetCode&logoColor=#d16c06">
+    </a>
+</p>
+
 ![kyosek's github stats](https://github-readme-stats.vercel.app/api?username=kyosek&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosek&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kyosek/readme)
 
 ✨ Snake-eating contribution graph ✨
 ![snake gif](https://github.com/kyosek/kyosek/blob/output/github-contribution-grid-snake.gif)
