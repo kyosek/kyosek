@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kyosuke, a senior data scientist in London <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+I'm Kyosuke, a senior AI researcher in London <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/kyosuke-morita-58329286/">
@@ -23,7 +23,7 @@ A little more about me...
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Python"],
-    Interest: ["Machine learning", "NLP", "Question-Answering"],
+    interests: ["Evaluation", "NLP", "Question-Answering", "Machine learning"],
     technologies: {
         Deep learning: [pytorch, tensorflow],
         devOps: ["GCP", "AWS", "Docker🐳", "Kubernetes"],
